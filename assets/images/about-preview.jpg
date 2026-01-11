@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+  <rect width="800" height="600" fill="#0A2558"/>
+  <text x="400" y="280" font-family="Arial, sans-serif" font-size="24" fill="#FBC02D" text-anchor="middle" font-weight="bold">M4 Solutions Limited</text>
+  <text x="400" y="320" font-family="Arial, sans-serif" font-size="18" fill="#FFFFFF" text-anchor="middle">Professional Printing & Contract Services</text>
+  <text x="400" y="360" font-family="Arial, sans-serif" font-size="14" fill="#D32F2F" text-anchor="middle">Abuja, Nigeria</text>
+  <circle cx="400" cy="450" r="50" fill="none" stroke="#FBC02D" stroke-width="3"/>
+  <path d="M380 450 L395 465 L420 440" fill="none" stroke="#FBC02D" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

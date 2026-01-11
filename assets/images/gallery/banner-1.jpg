@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+  <rect width="800" height="600" fill="#0A2558"/>
+  <rect x="50" y="50" width="700" height="500" rx="10" fill="#FFFFFF"/>
+  <text x="400" y="280" font-family="Arial, sans-serif" font-size="32" fill="#0A2558" text-anchor="middle" font-weight="bold">Large Format Banner</text>
+  <text x="400" y="330" font-family="Arial, sans-serif" font-size="18" fill="#6C757D" text-anchor="middle">10ft Exhibition Banner</text>
+  <rect x="200" y="380" width="400" height="100" rx="5" fill="#FBC02D"/>
+  <text x="400" y="445" font-family="Arial, sans-serif" font-size="16" fill="#0A2558" text-anchor="middle">High Quality Printing</text>
+</svg>

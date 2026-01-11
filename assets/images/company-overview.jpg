@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+  <rect width="800" height="600" fill="#F0F2F5"/>
+  <rect x="50" y="50" width="700" height="500" rx="10" fill="#FFFFFF"/>
+  <rect x="100" y="120" width="250" height="150" rx="5" fill="#0A2558"/>
+  <rect x="100" y="120" width="250" height="20" fill="#FBC02D"/>
+  <text x="225" y="200" font-family="Arial, sans-serif" font-size="14" fill="#FFFFFF" text-anchor="middle">Our Company Overview</text>
+  <rect x="450" y="120" width="250" height="150" rx="5" fill="#D32F2F"/>
+  <rect x="450" y="120" width="250" height="20" fill="#FBC02D"/>
+  <text x="575" y="200" font-family="Arial, sans-serif" font-size="14" fill="#FFFFFF" text-anchor="middle">Years of Experience</text>
+  <rect x="100" y="320" width="600" height="180" rx="5" fill="#0A2558"/>
+  <rect x="100" y="320" width="600" height="20" fill="#FBC02D"/>
+  <text x="400" y="400" font-family="Arial, sans-serif" font-size="16" fill="#FFFFFF" text-anchor="middle">Quality, Reliability, Excellence</text>
+  <text x="400" y="430" font-family="Arial, sans-serif" font-size="14" fill="#FBC02D" text-anchor="middle">M4 Solutions Limited</text>
+</svg>

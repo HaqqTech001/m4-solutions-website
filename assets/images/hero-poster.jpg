@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+  <rect width="1200" height="800" fill="#061830"/>
+  <rect x="100" y="100" width="1000" height="600" rx="10" fill="#0A2558"/>
+  <text x="600" y="350" font-family="Arial, sans-serif" font-size="48" fill="#FBC02D" text-anchor="middle" font-weight="bold">HERO BACKGROUND</text>
+  <text x="600" y="420" font-family="Arial, sans-serif" font-size="24" fill="#FFFFFF" text-anchor="middle">Printing Machine Video/Image</text>
+  <text x="600" y="500" font-family="Arial, sans-serif" font-size="16" fill="#D32F2F" text-anchor="middle">Replace with actual video of printing machines</text>
+  <circle cx="600" cy="650" r="40" fill="#FBC02D"/>
+  <polygon points="585,635 615,650 585,665" fill="#0A2558"/>
+</svg>

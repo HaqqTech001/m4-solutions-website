@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+  <rect width="800" height="600" fill="#1A3A6E"/>
+  <rect x="50" y="50" width="700" height="500" rx="10" fill="#FFFFFF"/>
+  <text x="400" y="250" font-family="Arial, sans-serif" font-size="28" fill="#0A2558" text-anchor="middle" font-weight="bold">Large Format Printer</text>
+  <text x="400" y="290" font-family="Arial, sans-serif" font-size="18" fill="#6C757D" text-anchor="middle">Up to 10ft Printing</text>
+  <rect x="150" y="340" width="500" height="150" rx="5" fill="#F0F2F5"/>
+  <rect x="180" y="370" width="120" height="90" fill="#D32F2F"/>
+  <rect x="320" y="370" width="120" height="90" fill="#0A2558"/>
+  <rect x="460" y="370" width="120" height="90" fill="#FBC02D"/>
+</svg>

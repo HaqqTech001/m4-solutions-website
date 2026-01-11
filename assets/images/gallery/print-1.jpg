@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+  <rect width="800" height="600" fill="#F0F2F5"/>
+  <rect x="50" y="50" width="700" height="500" rx="10" fill="#FFFFFF"/>
+  <text x="400" y="250" font-family="Arial, sans-serif" font-size="28" fill="#0A2558" text-anchor="middle" font-weight="bold">Marketing Brochures</text>
+  <text x="400" y="290" font-family="Arial, sans-serif" font-size="18" fill="#6C757D" text-anchor="middle">Product Catalogs</text>
+  <rect x="200" y="350" width="180" height="140" rx="3" fill="#0A2558" transform="rotate(-5, 290, 420)"/>
+  <rect x="280" y="360" width="160" height="130" rx="3" fill="#D32F2F" transform="rotate(3, 360, 425)"/>
+  <rect x="380" y="350" width="180" height="140" rx="3" fill="#FBC02D" transform="rotate(-2, 470, 420)"/>
+  <rect x="250" y="450" width="280" height="8" rx="2" fill="#F0F2F5"/>
+  <rect x="280" y="470" width="220" height="6" rx="2" fill="#F0F2F5"/>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+  <rect width="800" height="600" fill="#F0F2F5"/>
+  <rect x="50" y="50" width="700" height="500" rx="10" fill="#FFFFFF"/>
+  <text x="400" y="220" font-family="Arial, sans-serif" font-size="28" fill="#0A2558" text-anchor="middle" font-weight="bold">Business Cards</text>
+  <text x="400" y="260" font-family="Arial, sans-serif" font-size="18" fill="#6C757D" text-anchor="middle">Premium Quality Cards</text>
+  <rect x="150" y="320" width="200" height="120" rx="5" fill="#0A2558" transform="rotate(-5, 250, 380)"/>
+  <rect x="155" y="325" width="50" height="50" fill="#FBC02D"/>
+  <text x="180" y="400" font-family="Arial, sans-serif" font-size="12" fill="#FFFFFF" transform="rotate(-5, 180, 400)">John Smith</text>
+  <rect x="300" y="320" width="200" height="120" rx="5" fill="#D32F2F" transform="rotate(3, 400, 380)"/>
+  <rect x="305" y="325" width="50" height="50" fill="#FBC02D"/>
+  <text x="330" y="400" font-family="Arial, sans-serif" font-size="12" fill="#FFFFFF" transform="rotate(3, 330, 400)">Jane Doe</text>
+  <rect x="450" y="320" width="200" height="120" rx="5" fill="#0A2558" transform="rotate(-2, 550, 380)"/>
+  <rect x="455" y="325" width="50" height="50" fill="#FBC02D"/>
+  <text x="480" y="400" font-family="Arial, sans-serif" font-size="12" fill="#FFFFFF" transform="rotate(-2, 480, 400)">M4 Solutions</text>
+</svg>

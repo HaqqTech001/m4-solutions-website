@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+  <rect width="800" height="600" fill="#0A2558"/>
+  <rect x="50" y="50" width="700" height="500" rx="10" fill="#FFFFFF"/>
+  <text x="400" y="250" font-family="Arial, sans-serif" font-size="28" fill="#0A2558" text-anchor="middle" font-weight="bold">Outdoor Banner</text>
+  <text x="400" y="290" font-family="Arial, sans-serif" font-size="18" fill="#6C757D" text-anchor="middle">Weather Resistant Display</text>
+  <rect x="150" y="350" width="500" height="120" rx="5" fill="#FBC02D"/>
+  <text x="400" y="420" font-family="Arial, sans-serif" font-size="24" fill="#0A2558" text-anchor="middle" font-weight="bold">PREMIUM BANNERS</text>
+  <text x="400" y="450" font-family="Arial, sans-serif" font-size="14" fill="#D32F2F" text-anchor="middle">Up to 10ft Width Available</text>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+  <rect width="800" height="600" fill="#0A2558"/>
+  <rect x="100" y="100" width="600" height="400" rx="10" fill="#FFFFFF"/>
+  <text x="400" y="250" font-family="Arial, sans-serif" font-size="32" fill="#0A2558" text-anchor="middle" font-weight="bold">Our Services</text>
+  <text x="400" y="300" font-family="Arial, sans-serif" font-size="18" fill="#6C757D" text-anchor="middle">Professional Printing Solutions</text>
+  <circle cx="300" cy="400" r="30" fill="#D32F2F"/>
+  <circle cx="400" cy="400" r="30" fill="#FBC02D"/>
+  <circle cx="500" cy="400" r="30" fill="#0A2558"/>
+  <text x="400" y="520" font-family="Arial, sans-serif" font-size="14" fill="#FFFFFF" text-anchor="middle">CTCP • Large Format • DI • DTF • Embroidery</text>
+</svg>
